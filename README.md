@@ -20,7 +20,7 @@
 **DOMÍNIO**
 
 - [Namechk](https://namechk.com/) Para verificar se uma palavra já está sendo usada em perfis de redes sociais (importante na hora de escolher um domínio)
-- [Bust a Name](https://www.websiteplanet.com/pt-br/webtools/ssl-checker/) Ótimo para encontrar domínios disponíveis, misturando algumas palavras
+- [Bust a Name](http://www.bustaname.com/) Ótimo para encontrar domínios disponíveis, misturando algumas palavras
 - [Domize](https://domize.com/) Ferramenta de disponibilidade instantânea de nomes de domínio
 - [Registro BR](https://registro.br/) Registrar domínios .br direto com o órgão responsável por esse registro no Brasil
 - [Hostoo](https://hostoo.io/registro-de-dominio/) Registro de domínios com administração simplificada
