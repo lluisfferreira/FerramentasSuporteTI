@@ -42,6 +42,10 @@
 - [Snipboard](https://snipboard.io/) Carregar e compartilhar capturas de tela via link
 - [Streamable](https://streamable.com/) Upload e compartilhamento de vídeos com link
 
+**Debugar iframes**
+
+- [Iframely](http://debug.iframely.com/) Debugar URLs Embed, Twitter Cards e Open Graph 
+
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧 
