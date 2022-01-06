@@ -35,6 +35,12 @@
 
 - [Sucuri SiteCheck ](https://sitecheck.sucuri.net/) Busca malware conhecidos, status de lista negra, erros no site, software desatualizado e código malicioso
 
+**Transferência de arquivos**
+
+- [WeTransfer](https://wetransfer.com/) Maneira simples de enviar arquivos até 2GB grátis
+- [Snipboard](https://snipboard.io/) Carregar e compartilhar capturas de tela via link
+- [Streamable](https://streamable.com/) Upload e compartilhamento de vídeos com link
+- 
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧 
