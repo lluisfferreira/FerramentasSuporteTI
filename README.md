@@ -24,6 +24,7 @@
 - [Domize](https://domize.com/) Ferramenta de disponibilidade instantânea de nomes de domínio
 - [Registro BR](https://registro.br/) Registrar domínios .br direto com o órgão responsável por esse registro no Brasil
 - [Hostoo](https://hostoo.io/registro-de-dominio/) Registro de domínios com administração simplificada
+- [Freenom](https://www.freenom.com/pt/index.html) Domínio grátis
 
 **SSL**
 
@@ -40,7 +41,7 @@
 - [WeTransfer](https://wetransfer.com/) Maneira simples de enviar arquivos até 2GB grátis
 - [Snipboard](https://snipboard.io/) Carregar e compartilhar capturas de tela via link
 - [Streamable](https://streamable.com/) Upload e compartilhamento de vídeos com link
-- 
+
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧 
