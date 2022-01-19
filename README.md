@@ -54,7 +54,6 @@
 **SMTP**
 
 - [Mailtrap](https://mailtrap.io/) Capturar tráfego SMTP
-- 
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧 
