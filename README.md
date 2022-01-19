@@ -31,6 +31,7 @@
 - [SSL Shopper](https://www.sslshopper.com/ssl-checker.html) Verificar SSL para diagnosticar problemas com a instalação do certificado
 - [SSL Website Planet](https://www.websiteplanet.com/pt-br/webtools/ssl-checker/) Examinar o certificado SSL do servidor web para ver se é válido 
 - [Crawl Center](https://www.crawlcenter.com/mixed-content-checker) Consultar conteúdo misto (http e https), encontrar anexos inseguros, imagens, links na página
+- [SSL Server Test](https://www.ssllabs.com/ssltest/) Checar versão do certificado SSL
 
 **Detecção de malware**
 
@@ -46,6 +47,14 @@
 
 - [Iframely](http://debug.iframely.com/) Debugar URLs Embed, Twitter Cards e Open Graph 
 
+**JSON**
+
+- [JSON Formatter & Validator](https://jsonformatter.org/json-viewer) Ler arquivos JSON no navegaddor
+
+**SMTP**
+
+- [Mailtrap](https://mailtrap.io/) Capturar tráfego SMTP
+- 
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧 
